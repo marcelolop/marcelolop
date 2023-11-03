@@ -31,6 +31,10 @@ Welcome to my GitHub profile! This is where I showcase my projects and progress 
 - 🤔&nbsp; I like to explore new features and learn new things about everything.
 - 💬&nbsp; Ask me about anything, I am happy to help.
 
+## My Projects and Collaborations 📁
+
+- 📁 &nbsp; Collaboration on the project [EduPath - online learning platform](https://stefanoturcarelli.github.io/edupath-elearning/)
+
 ## My Stats 📊
 
 <div align='center'>
@@ -38,7 +42,7 @@ Welcome to my GitHub profile! This is where I showcase my projects and progress 
 <img width='47%' src='https://github-readme-stats.vercel.app/api?username=marcelolop&show_icons=true&hide_rank=false&theme=default'>
 </div>
 
-## Let's Connect and Projects 🤝
+## Let's Connect 🤝
 
 - Still working on it 😅
 
