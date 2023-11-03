@@ -1,8 +1,4 @@
-<h1 align="center">
-
-![](./assets/giphy.gif)
-
-</h1>
+![](assets/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png)
 
 # Hi there 👋
 
