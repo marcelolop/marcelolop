@@ -33,10 +33,10 @@ Welcome to my GitHub profile! This is where I showcase my projects and progress 
 
 ## My Stats 📊
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelolop&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelolop&layout=compact&langs_count=8&theme=react-dark"/>
-</p>
+<div align='center'>
+<img width='42%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcelolop&layout=compact'>
+<img width='47%' src='https://github-readme-stats.vercel.app/api?username=marcelolop&show_icons=true&hide_rank=false&theme=default'>
+</div>
 
 ## Let's Connect and Projects 🤝
 
