@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-Hello! 👋 I'm **_Marcelo_**, a software development student at **MITT**. I'm currently pursuing a Full Stack program, honing my skills in **_HTML, CSS, and JavaScript_**. I'm passionate about creating efficient, user-friendly web applications and always eager to embrace new challenges in the field of software development.
+ I'm **_Marcelo_**, a software development student at **MITT**. I'm currently pursuing a Full Stack program, honing my skills in **_HTML, CSS, and JavaScript_**. I'm passionate about creating efficient, user-friendly web applications and always eager to embrace new challenges in the field of software development.
 
 Welcome to my GitHub profile! This is where I showcase my projects and progress as a developer. I appreciate any feedback or suggestions you might have, so feel free to explore and share your thoughts.
 
@@ -27,7 +27,8 @@ Welcome to my GitHub profile! This is where I showcase my projects and progress 
 
 - 💻 &nbsp; **HTML** | **CSS** | **JavaScript** |
 - 🌱 &nbsp; **_Current learning_** more about **C#** and **C++**.
-- 🌱 &nbsp; I’m currently in the **_Full Stack_** program at **_MITT_**.
+- 🌱 &nbsp; Full Stack Development **_in progress_**.
+
 
 ## Let's Connect and Projects 🤝
 
