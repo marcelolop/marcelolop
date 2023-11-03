@@ -18,7 +18,6 @@ Hello! 👋 I'm **_Marcelo_**, a software development student at **MITT**. I hav
 
 - 🎓&nbsp; Studying **_Software Development_** at **MITT**.
 - 🗣 &nbsp; Languages: **_English_** and **_Portuguese_**.
-- 🌱&nbsp; I’m currently learning **_C#_** and **_C++_**.
 - 🤔&nbsp; I like to explore new features and learn new things about everything.
 - 💬&nbsp; Ask me about anything, I am happy to help.
 
