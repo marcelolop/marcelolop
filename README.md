@@ -1,8 +1,10 @@
-![](assets/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png)
+![](./assets/download.png)
 
 # Hi there 👋
 
-Hello! 👋 I'm **_Marcelo_**, a software development student at **MITT**. I have experience with **_HTML, CSS, and JavaScript_** and am currently cursing a Full Stack program. I'm passionate about building efficient, user-friendly web applications and eager to take on new challenges in software development.
+Hello! 👋 I'm **_Marcelo_**, a software development student at **MITT**. I'm currently pursuing a Full Stack program, honing my skills in **_HTML, CSS, and JavaScript_**. I'm passionate about creating efficient, user-friendly web applications and always eager to embrace new challenges in the field of software development.
+
+Welcome to my GitHub profile! This is where I showcase my projects and progress as a developer. I appreciate any feedback or suggestions you might have, so feel free to explore and share your thoughts.
 
 ## My Skills
 
@@ -26,10 +28,12 @@ Hello! 👋 I'm **_Marcelo_**, a software development student at **MITT**. I hav
 - 💻 &nbsp; **HTML** | **CSS** | **JavaScript** |
 - 🌱 &nbsp; **_Current learning_** more about **C#** and **C++**.
 - 🌱 &nbsp; I’m currently in the **_Full Stack_** program at **_MITT_**.
-  
-## Let's Connect 🤝
+
+## Let's Connect and Projects 🤝
 
 - Still working on it 😅
+
+![work in progress](./assets/giphy.gif)
 
 ##
 
