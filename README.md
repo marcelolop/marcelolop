@@ -31,12 +31,12 @@ Welcome to my GitHub profile! This is where I showcase my projects and progress 
 - 🤔&nbsp; I like to explore new features and learn new things about everything.
 - 💬&nbsp; Ask me about anything, I am happy to help.
 
-<!-- ## My Stats 📊
+## My Stats 📊
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelolop&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelolop&layout=compact&langs_count=8&theme=react-dark"/>
-</p> -->
+</p>
 
 ## Let's Connect and Projects 🤝
 
